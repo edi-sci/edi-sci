@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Heshani Edirisinghe aka @edi-sci
-- 👀 I’m interested in sharing my knowledge to help others.
+- 👀 I’m looking forward to starting my career as a data scientist and sharing my knowledge to help others.
 - 🌱 I’m currently building my GitHub portfolio 
 - 💞️ I’m looking to collaborate on data analytics in ecology, social sciences and engineering
 
